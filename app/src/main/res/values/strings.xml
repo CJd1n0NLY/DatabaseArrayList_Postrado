@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile Database-Postrado</string>
+    <string name="lblfname">FIRST NAME</string>
+    <string name="lblmname">MIDDLE NAME</string>
+    <string name="lbllname">LAST NAME</string>
+    <string name="lblEnterName">Enter Name</string>
+    <string name="btnSave">SAVE INFORMATION</string>
+    <string name="btnViewRecords">VIEW RECORDS</string>
+
+</resources>
